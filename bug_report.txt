@@ -1,1 +1,13 @@
-
+ID: Ymetro-1
+Title: You can increase the subway map to an unreadable state
+Steps to reproduse:
+1. Open subway map: https://......
+2. Click on icon + more than six times until it stops increasing
+Actual result: subway map increasing to unreadable view
+Expected result: after 3-6 clicks, subway map stops increasing
+Enviroment: OS Windows 10 x64 build 19043, Browser Google Chrome v.77.0.3865.90
+Severity": Minor
+Priority": Low
+Status": Open
+Author": Denis Pendyurin
+Attachments": link_to_picture_or_video
