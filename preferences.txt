@@ -1,0 +1,5 @@
+favorite movie: The MATRIX
+favorite TV show: Friends
+favorite food: pilaf
+favorite season: spring
+which country do you want visit: Japan

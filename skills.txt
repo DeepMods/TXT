@@ -1,0 +1,14 @@
+Knowledge we get:
+- HTTP methods; 
+- structure JSON, XML; 
+- sniffers traffic;
+- Dev Tool in browsers; 
+- mobile testing;
+- VPN how it works;
+- command line;
+- work with git bash;
+- work with github;
+- basics SQL;
+- work in Postman;
+- work in SoapUI;
+- basics Python.
